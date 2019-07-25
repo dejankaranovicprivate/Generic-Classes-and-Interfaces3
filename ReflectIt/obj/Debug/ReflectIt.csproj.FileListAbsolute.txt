@@ -1,0 +1,7 @@
+D:\KDProjectsTrening\Generic Classes and Interfaces\Example4\ReflectIt\ReflectIt\bin\Debug\ReflectIt.exe.config
+D:\KDProjectsTrening\Generic Classes and Interfaces\Example4\ReflectIt\ReflectIt\bin\Debug\ReflectIt.exe
+D:\KDProjectsTrening\Generic Classes and Interfaces\Example4\ReflectIt\ReflectIt\bin\Debug\ReflectIt.pdb
+D:\KDProjectsTrening\Generic Classes and Interfaces\Example4\ReflectIt\ReflectIt\obj\Debug\ReflectIt.csproj.CoreCompileInputs.cache
+D:\KDProjectsTrening\Generic Classes and Interfaces\Example4\ReflectIt\ReflectIt\obj\Debug\ReflectIt.exe
+D:\KDProjectsTrening\Generic Classes and Interfaces\Example4\ReflectIt\ReflectIt\obj\Debug\ReflectIt.pdb
+D:\KDProjectsTrening\Generic Classes and Interfaces\Example4\ReflectIt\ReflectIt\obj\Debug\ReflectIt.csprojAssemblyReference.cache
